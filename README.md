@@ -1,4 +1,4 @@
-[![MIT License][license-shield]][license-url]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # <img src="https://avatars3.githubusercontent.com/u/51455253" alt="University of Stuttgart - Department of Information Systems I" width="250">
 
