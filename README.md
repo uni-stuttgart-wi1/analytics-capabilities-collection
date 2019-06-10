@@ -7,7 +7,11 @@
 
 [List of Analytics Capabilities](capabilities.csv)
 
-[List of Analytics Products](capabilities.csv)
+Structure (Capability Description, Products used to implement capability)
+
+[List of Analytics Products](products.csv)
+
+Structure: (Product Name, Type of product)
 
 ## Background
 
