@@ -7,7 +7,7 @@
 
 [List of Analytics Capabilities](capabilities.csv)
 
-Structure (Capability Description, Products used to implement capability)
+Structure (Capability Description, Architectural Initiatives to realize capability)
 
 [List of Analytics Products](products.csv)
 
